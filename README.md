@@ -2,11 +2,12 @@
 AtliQ Hardware, a prominent global manufacturer, initiated an exciting journey to unlock the potential of data-driven insights essential for informed decision-making across various business sectors. Faced with challenges in extracting meaningful insights from their data, we were tasked with developing comprehensive reports and interactive dashboards to illuminate the data they provided.
 
 💻 Skills Acquired
-Power BI
-Power Query Editor
-DAX Language
-DAX Studio (for report optimization)
-Project Management Tools
+🔹Power BI
+🔹Power Query Editor
+🔹DAX Language
+🔹DAX Studio (for report optimization)
+🔹Project Management Tools
+
 📊 Power BI Techniques Covered
 🔹 Project Initiation Questions
 🔹 Calculated Column Creation
@@ -21,17 +22,19 @@ Project Management Tools
 🔹 Data Validation Techniques
 🔹 Power BI Services
 🔹 Publishing Reports to Power BI Services
+
 📈 Business Terminology
-✅ Gross Price
-✅ Pre-Invoice Deductions
-✅ Post-Invoice Deductions
-✅ Net Invoice Sale
-✅ Gross Margin
-✅ Net Sales
-✅ Net Profit
-✅ COGS - Cost of Goods Sold
-✅ YTD - Year to Date
-✅ YTG - Year to Go
+🔹✅ Gross Price
+🔹✅ Pre-Invoice Deductions
+🔹✅ Post-Invoice Deductions
+🔹✅ Net Invoice Sale
+🔹✅ Gross Margin
+🔹✅ Net Sales
+🔹✅ Net Profit
+🔹✅ COGS - Cost of Goods Sold
+🔹✅ YTD - Year to Date
+🔹✅ YTG - Year to Go
+
 🛠️ Functions Used
 CALCULATE
 ALLNOBLANKROW
