@@ -1,5 +1,3 @@
-# Business-360: Brick-mortar-and-e-commerce
-
 🌟 Project Overview
 AtliQ Hardware, a prominent global manufacturer, initiated an exciting journey to unlock the potential of data-driven insights essential for informed decision-making across various business sectors. Faced with challenges in extracting meaningful insights from their data, we were tasked with developing comprehensive reports and interactive dashboards to illuminate the data they provided.
 
@@ -23,16 +21,28 @@ Project Management Tools
 🔹 Data Validation Techniques
 🔹 Power BI Services
 🔹 Publishing Reports to Power BI Services
-📈 Business Terminology ✅ Gross Price ✅ Pre-Invoice Deductions
-✅ Post-Invoice Deductions ✅ Net Invoice Sale ✅ Gross Margin
-✅ Net Sales ✅ Net Profit ✅ COGS - Cost of Goods Sold
-✅ YTD - Year to Date ✅ YTG - Year to Go
-
+📈 Business Terminology
+✅ Gross Price
+✅ Pre-Invoice Deductions
+✅ Post-Invoice Deductions
+✅ Net Invoice Sale
+✅ Gross Margin
+✅ Net Sales
+✅ Net Profit
+✅ COGS - Cost of Goods Sold
+✅ YTD - Year to Date
+✅ YTG - Year to Go
 🛠️ Functions Used
-CALCULATE , RELATED , ALLNOBLANKROW , RELATEDTABLE , SAMEPERIODLASTYEAR
-SWITCH , HASONEVALUE , ALL , IF , DIVIDE
+CALCULATE
+ALLNOBLANKROW
+RELATEDTABLE
+SAMEPERIODLASTYEAR
+SWITCH
+HASONEVALUE
+ISCROSSFILTERED
+IF
+DIVIDE
 ...and more!
-
 📊 Visualization Techniques
 Using a variety of visualization tools, we enhanced interactivity through:
 
@@ -44,5 +54,9 @@ Drill Through Features
 Conditional Formatting & Top N Slicers
 Charts Utilized:
 
-Donut , Scatter Area Ribbon
-Waterfall , Line & Clustered Column
+Donut
+Scatter
+Area
+Ribbon
+Waterfall
+Line & Clustered Column
