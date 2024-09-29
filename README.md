@@ -3,6 +3,9 @@ AtliQ Hardware is experiencing remarkable growth, and to stay ahead in the compe
 
 Linkedin: https://tinyurl.com/45j42tkj
 
+
+![Uploading image.png…]()
+
 # Tech Stack
 - 🗄️ SQL
 - 📊 Power BI Desktop
