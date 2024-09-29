@@ -4,7 +4,8 @@ AtliQ Hardware is experiencing remarkable growth, and to stay ahead in the compe
 Linkedin: https://tinyurl.com/45j42tkj
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/39b94c1b-acd0-4828-bad3-9ef1a4333d89)
+
 
 # Tech Stack
 - 🗄️ SQL
